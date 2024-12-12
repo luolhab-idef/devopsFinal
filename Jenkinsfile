@@ -10,7 +10,7 @@ pipeline {
             doGenerateSubmoduleConfigurations: false,
             extensions: [],
             userRemoteConfigs: [[
-                url: 'https://github.com/luolhab-idef/Devops.git'
+                url: 'https://github.com/luolhab-idef/devopsFinal.git'
             ]]
         ])
     }
